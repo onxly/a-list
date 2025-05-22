@@ -27,6 +27,19 @@ A-List is a mobile-friendly React Native app built with Expo that lets users exp
 > ### Review
 > ![Review Example](./assets/screenshots/review.jpg)
 
+
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root folder with the following keys:
+
+```env
+API_KEY=your_api_key_here
+
+
+```
+Get API key from [Rapid API](https://rapidapi.com/)
+
 ## 📦 Installation
 
 1. Clone the repository:
